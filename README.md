@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZlinEleven
 - 👀 I’m interested in robotics, web/software development, algorithms, and mathematics
-- 🌱 I’m currently tinkering with mobile development using Flutter and Dart
+- 🌱 I’m currently making my portfolio website with React and Tailwind
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email - zhenbin2004@gmail.com; phone - 718-696-8616
 
